@@ -18,7 +18,7 @@
 Sujet : résumé / génération automatique  
 Thématique : description de produits / textes juridiques sur les brevets  
 Site web : http://hackatal.github.io/2017  
-Dates : 14 au 16 juin 2017  
+Dates : 24 au 26 juin 2017  
 Lieu : Lab’O, 1 Avenue du Champ de Mars, Orléans, le-lab-o.fr  
 Inscription (gratuite mais obligatoire) : TODO  
 
@@ -71,9 +71,9 @@ TBC
 
 ### Planning prévisionnel
 
-Cet évènement se tiendra du 14 au 16 juin 2017 et se focalisera sur le traitement des données et l’implémentation de prototypes.
+Cet évènement se tiendra du 24 au 26 juin 2017 et se focalisera sur le traitement des données et l’implémentation de prototypes.
 
-Samedi 14 juin (Lab’O)
+Samedi 24 juin (Lab’O)
 
 - 14h-15h : présentation du hackathon, café
 - 15h-16h : échanges, constitution des équipes, précisions sur les objectifs
@@ -81,14 +81,14 @@ Samedi 14 juin (Lab’O)
 - 20h-21h : pause repas ?
 - 21h-00h : développements en équipes
 
-Dimanche 15 juin (Lab’O)
+Dimanche 25 juin (Lab’O)
 - 09h-10h : accueil, café
 - 10h-12h : développements en équipes
 - 12h-13h : pause repas ?
 - 13h-14h : présentation des premiers résultats
 - 14h-19h : développements en équipes
 
-Lundi 16 juin (à TALN sur Orléans)
+Lundi 26 juin (à TALN sur Orléans)
 - 14h-17h : présentation des résultats, discussions, remise du prix
 
 
