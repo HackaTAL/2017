@@ -82,6 +82,7 @@ Samedi 24 juin (Lab’O)
 - 21h-00h : développements en équipes
 
 Dimanche 25 juin (Lab’O)
+
 - 09h-10h : accueil, café
 - 10h-12h : développements en équipes
 - 12h-13h : pause repas ?
@@ -89,6 +90,7 @@ Dimanche 25 juin (Lab’O)
 - 14h-19h : développements en équipes
 
 Lundi 26 juin (à TALN sur Orléans)
+
 - 14h-17h : présentation des résultats, discussions, remise du prix
 
 
