@@ -44,7 +44,7 @@ TBC
 
 TBC
 
-**2. Génération de brevets**
+**2. Prédiction de brevets**
 
 *Description*
 
