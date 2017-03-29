@@ -103,6 +103,7 @@ Données et briques logicielles à disposition en ligne : https://github.com/Hac
 
 ### Organisateurs
 
+Julien Borderieux (LLL)  
 Loïc Grobol (LaTTiCe)  
 Gaël Guibon (LSIS)  
 Pierre-Edouard Lieb (Recast.AI)  
