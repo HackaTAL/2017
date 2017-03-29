@@ -104,6 +104,7 @@ Données et briques logicielles à disposition en ligne : https://github.com/Hac
 ### Organisateurs
 
 Julien Borderieux (LLL)  
+Kim Gerdes (Sorbonne Nouvelle / Cloem.com)  
 Loïc Grobol (LaTTiCe)  
 Gaël Guibon (LSIS)  
 Pierre-Edouard Lieb (Recast.AI)  
