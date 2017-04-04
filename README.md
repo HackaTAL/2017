@@ -104,13 +104,13 @@ Données et briques logicielles à disposition en ligne : https://github.com/Hac
 ### Organisateurs
 
 Julien Borderieux (LLL)  
-Kim Gerdes (Sorbonne Nouvelle / Cloem.com)  
+Patrice Frutos (INPI)  
+Kim Gerdes (Paris 3, Cloem.com)  
 Loïc Grobol (LaTTiCe)  
-Gaël Guibon (LSIS)  
+Gaël Guibon (LSIS, Caléa Solutions)  
 Pierre-Edouard Lieb (Recast.AI)  
 Gilles Mary (Lab’O)  
 Djamel Mostefa (SYSTRAN)  
 Gilles Moyse (Rocket Labs)  
-Damien Nouvel (ERTIM, INALCO)  
+Damien Nouvel (ERTIM)  
 Paul Renvoise (Recast.AI)  
-(TBC)
