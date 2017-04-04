@@ -20,7 +20,7 @@ Thématique : description de produits / textes juridiques sur les brevets
 Site web : http://hackatal.github.io/2017  
 Dates : 24 au 26 juin 2017  
 Lieu : Lab’O, 1 Avenue du Champ de Mars, Orléans, le-lab-o.fr  
-Inscription (gratuite mais obligatoire) : TODO  
+Inscription (gratuite mais obligatoire) : https://goo.gl/forms/tbFdKosMNNKdPhaH3  
 
 ### Description
 
