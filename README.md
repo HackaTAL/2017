@@ -12,9 +12,9 @@ Inscrivez-vous (gratuit mais obligatoire) : https://goo.gl/forms/tbFdKosMNNKdPha
 
 ### Description
 
-Dans le cadre de la conférence TALN-RECITAL 2017, sera organisée la seconde édition du HackaTAL, le hackathon dédié à des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, modéliser, prototyper, coder, implémenter, développer, expérimenter, tester, évaluer… et bien plus encore, dans une ambiance décontractée !
+Dans le cadre de la conférence TALN-RECITAL 2017, sera organisée la seconde édition du HackaTAL, le hackathon dédié à des problématiques liées au TAL. L’objectif est de réunir la communauté autour de défis à relever à l’aide de données et briques logicielles, en consacrant le weekend à modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, comparer, échanger, etc. - par équipes et dans une ambiance décontractée :)
 
-Les tâches proposées concernent cette année le résumé automatique de description de produits à partir de leurs commentaires et la prédiction automatique de la brevetabilité de termes liés à des technologies selon leur historique. L’événement est ouvert à tous, ne nécessite pas de préparation particulière (sauf d’amener sa machine BYOD) et ne requiert pas de compétences spécifiques aux tâches que nous proposons : tout le monde est bienvenu !
+Les tâches proposées concernent cette année le résumé automatique de description de produits à partir de leurs commentaires et la prédiction automatique de la brevetabilité de termes liés à des technologies selon leur historique. L’événement est ouvert à tous, ne nécessite pas de préparation particulière (sauf d’amener sa machine) et ne requiert pas de compétences spécifiques aux tâches que nous proposons : tout le monde est bienvenu !
 
 ### Tâches
 
@@ -31,7 +31,8 @@ Cette tâche vise à construire un résumé automatique des commentaires qui ser
 - Traitement / débruitage UGC
 - Agrégation des commentaires par produits
 - Détermination et extraction de valeurs aspectuelles
-- Aspect-Based Sentiment Analysis
+- Aspect-based sentiment analysis
+- Fouille d'arguments
 - Détection et résolution de contradictions
 - Résumé automatique d’opinions sur les aspects
 
@@ -54,6 +55,7 @@ La tâche proposée vise à mieux modéliser les mécanismes qui permettent de p
 - Prétraitement du langage et de la structure des brevets
 - Extraction de terminologies liées aux technologies
 - Comparaison des termes des brevets avec les sites technologiques
+- Détection de signaux faibles
 - Analyse et prédiction de tendances
 
 *Données*
@@ -77,14 +79,14 @@ Samedi 24 juin (Lab’O)
 - 14h-15h : présentation du hackathon, café
 - 15h-16h : échanges, constitution des équipes, précisions sur les objectifs
 - 16h-20h : développements en équipes
-- 20h-21h : pause repas ?
-- 21h-00h : développements en équipes
+- 20h-21h : pause repas
+- 21h-... : développements en équipes
 
 Dimanche 25 juin (Lab’O)
 
 - 09h-10h : accueil, café
 - 10h-12h : développements en équipes
-- 12h-13h : pause repas ?
+- 12h-13h : pause repas
 - 13h-14h : présentation des premiers résultats
 - 14h-19h : développements en équipes
 
