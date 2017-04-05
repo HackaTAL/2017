@@ -2,12 +2,6 @@
 ---------------
 **(hackathon dans le domaine du TAL)**
 
-<!---
-[![SYSTRAN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)](http://www.systran.fr)
-[![Recast.ai](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)](http://www.recast.ai)
-[![Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)](http://www.inalco.fr)
---->
-
 ### TL;DR
 
 Tâches : résumé automatique de description de produits / prédiction de brevets  
