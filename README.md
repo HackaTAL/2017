@@ -1,77 +1,82 @@
-# HACKATAL 2017
+# HackaTAL 2017
 ---------------
 **(hackathon dans le domaine du TAL)**
 
-<!---
-[![Google](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-google.png)](http://www.google.fr)
+<!--
 [![SYSTRAN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-systran.png)](http://www.systran.fr)
 [![Recast.ai](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-recast.png)](http://www.recast.ai)
-
 [![Inalco](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-inalco.png)](http://www.inalco.fr)
-[![LIMSI](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-limsi.png)](http://www.limsi.fr)
-[![LIPN](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-lipn.png)](http://lipn.univ-paris13.fr)
-[![Vocal Apps](https://raw.githubusercontent.com/HackaTAL/2016/gh-pages/logo-vocalapps.png)](http://vocal-apps.com)
---->
+-->
 
 ### TL;DR
 
-Sujet : résumé / génération automatique  
-Thématique : description de produits / textes juridiques sur les brevets  
+Tâches : résumé automatique de description de produits / prédiction de brevets  
 Site web : http://hackatal.github.io/2017  
 Dates : 24 au 26 juin 2017  
 Lieu : Lab’O, 1 Avenue du Champ de Mars, Orléans, le-lab-o.fr  
-Inscription (gratuite mais obligatoire) : https://goo.gl/forms/tbFdKosMNNKdPhaH3  
+Inscrivez-vous (gratuit mais obligatoire) : https://goo.gl/forms/tbFdKosMNNKdPhaH3  
 
 ### Description
 
-Dans le cadre de la conférence TALN-RECITAL 2017, nous organisons la seconde édition du HackaTAL, le hackathon dédiés à des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, modéliser, prototyper, coder, implémenter, développer, expérimenter, tester, évaluer… et bien plus encore !
+Dans le cadre de la conférence TALN-RECITAL 2017, sera organisée la seconde édition du HackaTAL, le hackathon dédié à des problématiques liées au TAL. L’objectif est de réunir la communauté autour de données et de briques logicielles pour échanger, modéliser, prototyper, coder, implémenter, développer, expérimenter, tester, évaluer… et bien plus encore, dans une ambiance décontractée !
 
-Les tâches proposées concernent le résumé automatique et la génération automatique de textes. Les domaines considérés portent sur la mise en correspondance de descriptions de produits en ligne avec les avis et commentaires sur ces mêmes produits (résumé automatique) et la génération de versions de brevets à partir d’un brevet initial (génération automatique).
+Les tâches proposées concernent cette année le résumé automatique de description de produits à partir de leurs commentaires et la prédiction automatique de la brevetabilité de termes liés à des technologies selon leur historique. L’événement est ouvert à tous, ne nécessite pas de préparation particulière (sauf d’amener sa machine BYOD) et ne requiert pas de compétences spécifiques aux tâches que nous proposons : tout le monde est bienvenu !
 
 ### Tâches
 
 **1. Résumé automatique de description de produits**
 
-*Description*
+*Objectifs*
 
-TBC
+Dans le cadre de la vente de produits sur les plateformes en ligne, l’appréciation peut être analysée à partir des retours utilisateurs (User Generated Content ou UGC). Ces derniers se présentent sous plusieurs formes, dont les notes/étoiles ou commentaires textuels. Les notes n’étant pas toujours en adéquation avec les contenus textuels, de plus en plus d’acteurs cherchent à qualifier l’opinion des utilisateurs et à déterminer quels sont leurs arguments.
+
+Cette tâche vise à construire un résumé automatique des commentaires qui sera comparée à la description du produit concerné. Ce résumé orienté des commentaires de chaque produit, devra être séparé en deux champs principaux : points négatifs (par ex. : mauvaise batterie, ergonomie inadaptée, fragilité, capacités insuffisantes, etc.) et points positifs (par ex. : esthétique, robustesse, fiabilité, etc.). D’autres champs peuvent y être ajoutés à la guise des participants (ex: délais de livraison, évolution des avis sur le court / long terme, etc.).
 
 *Sous tâches*
 
-TBC
+- Traitement / débruitage UGC
+- Agrégation des commentaires par produits
+- Détermination et extraction de valeurs aspectuelles
+- Aspect-Based Sentiment Analysis
+- Détection et résolution de contradictions
+- Résumé automatique d’opinions sur les aspects
 
-*Données / logiciels*
+*Données*
 
-TBC
+Collection de fichiers json représentant chacun un produit (champs de description du produit et liste des commentaires associés) en français et en anglais. Les données seront fournies sous-forme de corpus (pour le corpus collecté sur Internet) et/ou via des liens à télécharger (pour les données fournies par les partenaires, à préciser).
+
+L’évaluation de la tâche sera précisée ultérieurement selon les données disponibles et pourrait être quantitative si nous disposons de données de référence.
 
 **2. Prédiction de brevets**
 
-*Description*
+*Objectifs*
 
-TBC
+La stratégie de dépôt de brevets par des entreprises ou des individus représente un enjeu considérable, qui a donné lieu à des affaires mondialement connues (Apple vs Samsung, Microsoft vs Google). Cet outil juridique reste cependant difficilement accessible pour les entreprises de petite taille ou les individus. En particulier, il n’est pas évident de déterminer quelles technologies vont avoir tendance à être l’objet de brevets, dans une optique de veille ou de préservation de la propriété intellectuelle.
+
+La tâche proposée vise à mieux modéliser les mécanismes qui permettent de prédire l’apparition de brevets pour des technologies en essor, par utilisation de méthodes d’IA et de TAL (terminologie et expressions multi-mots, catégorisation des brevets, évolution des termes et des n-grams, prédiction de tendances). L’objectif est de déterminer, au regard des données collectées sur des brevets (par ex. distribution des termes entre 2001 et 2009), quels brevets seront déposés (par ex. en 2010). Pour illustration : si "tactile" est recensé avec une grande montée en 2010, pouvait-on prédire cette montée en exploitant les données de la décennie précédente ?
 
 *Sous tâches*
 
-TBC
+- Prétraitement du langage et de la structure des brevets
+- Extraction de terminologies liées aux technologies
+- Comparaison des termes des brevets avec les sites technologiques
+- Analyse et prédiction de tendances
 
-*Données / logiciels*
+*Données*
 
-TBC
+Seront mis à disposition :
 
-### Récupération des données
+- Brevets de classes A/G/H en français 2001 - 2016 (descriptions, revendications)
+- Google n-gram du français
+- Corpus de sites technologiques (aspirés et nettoyés)
 
-```
-git clone --recursive https://github.com/HackaTAL/2017.git  HackaTAL2017
-cd HackaTAL2017
-```
+Deux évaluations seront proposées :
 
-### Prix
+- Quantitative : quel système prédit le mieux la liste conjointe de tous les termes établie par les différents groupes qui participe à la tâche ?
+- Qualitative : quel système d'interrogation et de visualisation des données est le plus pertinent et le plus ergonomique ?
 
-TBC
 
 ### Planning prévisionnel
-
-Cet évènement se tiendra du 24 au 26 juin 2017 et se focalisera sur le traitement des données et l’implémentation de prototypes.
 
 Samedi 24 juin (Lab’O)
 
@@ -93,13 +98,12 @@ Lundi 26 juin (à TALN sur Orléans)
 
 - 14h-17h : présentation des résultats, discussions, remise du prix
 
-
 ### Organisation pratique
 
 BYOD (amenez votre ordinateur)  
 Pas de critères pour participer, HackaTAL est ouvert à tous !  
-Aucune préparation n’est requise de la part des participants en amont de l’évènement.  
-Données et briques logicielles à disposition en ligne : https://github.com/HackaTAL/2017  
+Aucune préparation n’est requise de la part des participants en amont de l’évènement  
+Données et briques logicielles seront en ligne : https://github.com/HackaTAL/2017  
 
 ### Organisateurs
 
@@ -108,7 +112,7 @@ Patrice Frutos (INPI)
 Kim Gerdes (Paris 3, Cloem.com)  
 Loïc Grobol (LaTTiCe)  
 Gaël Guibon (LSIS, Caléa Solutions)  
-Anaïs Lefeuvre-Halftermeyer (LIFO)
+Anaïs Lefeuvre-Halftermeyer (LIFO)  
 Pierre-Edouard Lieb (Recast.AI)  
 Gilles Mary (Lab’O)  
 Djamel Mostefa (SYSTRAN)  
