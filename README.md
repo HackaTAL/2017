@@ -1,3 +1,5 @@
+![HACKATAL 2017](https://raw.githubusercontent.com/HackaTAL/2017/gh-pages/hackatal2017.jpg)
+
 # HackaTAL 2017
 ---------------
 **(hackathon dans le domaine du TAL)**
