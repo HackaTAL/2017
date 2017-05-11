@@ -16,7 +16,7 @@ Inscrivez-vous (gratuit mais obligatoire) : https://goo.gl/forms/tbFdKosMNNKdPha
 
 Dans le cadre de la conférence TALN-RECITAL 2017, sera organisée la seconde édition du HackaTAL, le hackathon dédié à des problématiques liées au TAL. L’objectif est de réunir la communauté autour de défis à relever à l’aide de données et briques logicielles, en consacrant le weekend à modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, comparer, échanger, etc. - par équipes et dans une ambiance décontractée :)
 
-Les tâches proposées concernent cette année le résumé automatique de description de produits à partir de leurs commentaires et la prédiction automatique de la brevetabilité de termes liés à des technologies selon leur historique. L’événement est ouvert à tous, ne nécessite pas de préparation particulière (sauf d’amener sa machine) et ne requiert pas de compétences spécifiques aux tâches que nous proposons : tout le monde est bienvenu !
+Les tâches proposées concernent cette année le résumé automatique de description de produits à partir de leurs commentaires et la prédiction automatique du développement de brevets liés à des technologies selon leur historique. L’événement est ouvert à tous, ne nécessite pas de préparation particulière (sauf d’amener sa machine) et ne requiert pas de compétences spécifiques aux tâches que nous proposons : tout le monde est bienvenu !
 
 ### Tâches
 
@@ -44,7 +44,7 @@ Collection de fichiers json représentant chacun un produit (champs de descripti
 
 L’évaluation de la tâche sera précisée ultérieurement selon les données disponibles et pourrait être quantitative si nous disposons de données de référence.
 
-**2. Prédiction de brevets**
+**2. Identification des tendances stratégiques liées aux brevets**
 
 *Objectifs*
 
