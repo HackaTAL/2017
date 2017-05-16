@@ -6,7 +6,7 @@
 
 ### TL;DR
 
-Tâches : résumé automatique de description de produits / prédiction de brevets  
+Tâches : résumé d’avis et commentaires / prédiction de brevets  
 Site web : http://hackatal.github.io/2017  
 Dates : 24 au 26 juin 2017  
 Lieu : Lab’O, 1 Avenue du Champ de Mars, Orléans, le-lab-o.fr  
@@ -16,33 +16,31 @@ Inscrivez-vous (gratuit mais obligatoire) : https://goo.gl/forms/tbFdKosMNNKdPha
 
 Dans le cadre de la conférence TALN-RECITAL 2017, sera organisée la seconde édition du HackaTAL, le hackathon dédié à des problématiques liées au TAL. L’objectif est de réunir la communauté autour de défis à relever à l’aide de données et briques logicielles, en consacrant le weekend à modéliser, prototyper, coder, expérimenter, développer, tester, évaluer, comparer, échanger, etc. - par équipes et dans une ambiance décontractée :)
 
-Les tâches proposées concernent cette année le résumé automatique de description de produits à partir de leurs commentaires et la prédiction automatique du développement de brevets liés à des technologies selon leur historique. L’événement est ouvert à tous, ne nécessite pas de préparation particulière (sauf d’amener sa machine) et ne requiert pas de compétences spécifiques aux tâches que nous proposons : tout le monde est bienvenu !
+Les tâches proposées concernent cette année le résumé automatique de description de produits à partir de leurs commentaires et la prédiction automatique de la brevetabilité de termes liés à des technologies selon leur historique. L’événement est ouvert à tous, ne nécessite pas de préparation particulière (sauf d’amener sa machine) et ne requiert pas de compétences spécifiques aux tâches que nous proposons : tout le monde est bienvenu !
 
 ### Tâches
 
-**1. Résumé automatique de description de produits**
+**1. Résumé automatique de commentaires**
 
 *Objectifs*
 
-Dans le cadre de la vente de produits sur les plateformes en ligne, l’appréciation peut être analysée à partir des retours utilisateurs (User Generated Content ou UGC). Ces derniers se présentent sous plusieurs formes, dont les notes/étoiles ou commentaires textuels. Les notes n’étant pas toujours en adéquation avec les contenus textuels, de plus en plus d’acteurs cherchent à qualifier l’opinion des utilisateurs et à déterminer quels sont leurs arguments.
+Dans le cadre de la promotion de produits sur les plateformes en ligne, l’appréciation peut être analysée à partir des retours utilisateurs (User Generated Content). Ces derniers peuvent se présenter : notes, étoiles, mais aussi avis et commentaires textuels. Les notes n’étant pas toujours en adéquation avec les contenus textuels, de plus en plus d’acteurs cherchent à qualifier l’opinion des utilisateurs et à déterminer quels sont leurs arguments.
 
-Cette tâche vise à construire un résumé automatique des commentaires qui sera comparée à la description du produit concerné. Ce résumé orienté des commentaires de chaque produit, devra être séparé en deux champs principaux : points négatifs (par ex. : mauvaise batterie, ergonomie inadaptée, fragilité, capacités insuffisantes, etc.) et points positifs (par ex. : esthétique, robustesse, fiabilité, etc.). D’autres champs peuvent y être ajoutés à la guise des participants (ex: délais de livraison, évolution des avis sur le court / long terme, etc.).
+La thématique est orientée sur les avis et commentaires concernant l’offre de logements en région centre (particuliers, auberges, hôtels, luxe, etc.). Il s’agira de construire un résumé automatique des commentaires, à partir des arguments détectés dans ces derniers, à comparer aux notes et/ou à la description. Ce résumé orienté devra être séparé en deux champs principaux : points positifs et points négatifs sur des critères communs : accueil, confort, services, propreté, accessibilité, etc. D’autres champs peuvent être proposés par les participants selon les arguments extraits à partir des commentaires.
 
 *Sous tâches*
 
-- Traitement / débruitage UGC
-- Agrégation des commentaires par produits
-- Détermination et extraction de valeurs aspectuelles
-- Aspect-based sentiment analysis
-- Fouille d'arguments
+- Traitement / débruitage de données UGC
+- Détection et extraction d’arguments
+- Agrégation des valeurs par produits
 - Détection et résolution de contradictions
 - Résumé automatique d’opinions sur les aspects
 
-*Données*
+*Données et évaluation*
 
-Collection de fichiers json représentant chacun un produit (champs de description du produit et liste des commentaires associés) en français et en anglais. Les données seront fournies sous-forme de corpus (pour le corpus collecté sur Internet) et/ou via des liens à télécharger (pour les données fournies par les partenaires, à préciser).
+Collection de données représentant chaque produit en ligne (champs de description du produit, notes ou étoiles, liste des commentaires associés) en français et en anglais. Les données seront fournies sous-forme de corpus (pour le corpus collecté sur Internet) et/ou via des liens à télécharger (pour les données fournies par les partenaires, à préciser).
 
-L’évaluation de la tâche sera précisée ultérieurement selon les données disponibles et pourrait être quantitative si nous disposons de données de référence.
+L’évaluation portera sur la capacité à calculer automatiquement les scores pour chaque catégorie d’évaluation du produit (accueil, propreté, emplacement, etc.). Pour chacun de ces scores, un argumentaire résumé automatiquement devra être fourni qui pourra faire l’objet d’évaluation qualitatives.
 
 **2. Identification des tendances stratégiques liées aux brevets**
 
@@ -60,7 +58,7 @@ La tâche proposée vise à mieux modéliser les mécanismes qui permettent de p
 - Détection de signaux faibles
 - Analyse et prédiction de tendances
 
-*Données*
+*Données et évaluation*
 
 Seront mis à disposition :
 
@@ -106,6 +104,7 @@ Données et briques logicielles seront en ligne : https://github.com/HackaTAL/20
 ### Organisateurs
 
 Julien Borderieux (LLL)  
+Victor Brandao (Lab’O)  
 Patrice Frutos (INPI)  
 Kim Gerdes (Paris 3, Cloem.com)  
 Loïc Grobol (LaTTiCe)  
@@ -116,4 +115,5 @@ Gilles Mary (Lab’O)
 Djamel Mostefa (SYSTRAN)  
 Gilles Moyse (Récital)  
 Damien Nouvel (ERTIM)  
+Namrata Patel (Viseo)  
 Paul Renvoise (Recast.AI)  
