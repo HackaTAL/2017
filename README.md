@@ -1,4 +1,4 @@
-![HACKATAL 2017](https://raw.githubusercontent.com/HackaTAL/2017/gh-pages/hackatal2017.jpg)
+![HACKATAL 2017](https://raw.githubusercontent.com/HackaTAL/2017/gh-pages/hackatal2017.png)
 
 # HackaTAL 2017
 ---------------
