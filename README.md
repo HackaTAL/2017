@@ -20,7 +20,7 @@ Les tâches proposées concernent cette année le résumé automatique de descri
 
 ### Tâches
 
-**1. Résumé automatique de commentaires**
+**1. Résumé automatique de commentaires sur des produits en ligne**
 
 *Objectifs*
 
@@ -74,7 +74,7 @@ Deux évaluations seront proposées :
 
 ### Planning prévisionnel
 
-Samedi 24 juin (Lab’O)
+Samedi 24 juin (au Lab’O)
 
 - 14h-15h : présentation du hackathon, café
 - 15h-16h : échanges, constitution des équipes, précisions sur les objectifs
@@ -82,7 +82,7 @@ Samedi 24 juin (Lab’O)
 - 20h-21h : pause repas
 - 21h-... : développements en équipes
 
-Dimanche 25 juin (Lab’O)
+Dimanche 25 juin (au Lab’O)
 
 - 09h-10h : accueil, café
 - 10h-12h : développements en équipes
@@ -90,7 +90,7 @@ Dimanche 25 juin (Lab’O)
 - 13h-14h : présentation des premiers résultats
 - 14h-19h : développements en équipes
 
-Lundi 26 juin (à TALN sur Orléans)
+Lundi 26 juin (à TALN, campus d'Orléans)
 
 - 14h-17h : présentation des résultats, discussions, remise du prix
 
@@ -106,6 +106,7 @@ Données et briques logicielles seront en ligne : https://github.com/HackaTAL/20
 Julien Borderieux (LLL)  
 Victor Brandao (Lab’O)  
 Patrice Frutos (INPI)  
+Renaud Garat (Questel)
 Kim Gerdes (Paris 3, Cloem.com)  
 Loïc Grobol (LaTTiCe)  
 Gaël Guibon (LSIS, Caléa Solutions)  
