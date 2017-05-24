@@ -9,7 +9,7 @@
 Tâches : résumé d’avis et commentaires / prédiction de brevets  
 Site web : http://hackatal.github.io/2017  
 Dates : 24 au 26 juin 2017  
-Lieu : Lab’O, 1 Avenue du Champ de Mars, Orléans, le-lab-o.fr  
+Lieu : Lab’O, 1 Avenue du Champ de Mars, Orléans, le-lab-o.fr (AR Paris-Orléans : ~1h / ~15€)  
 Inscrivez-vous (gratuit mais obligatoire) : https://goo.gl/forms/tbFdKosMNNKdPhaH3  
 
 ### Description
