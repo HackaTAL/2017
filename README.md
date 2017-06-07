@@ -106,7 +106,7 @@ Données et briques logicielles seront en ligne : https://github.com/HackaTAL/20
 Julien Borderieux (LLL)  
 Victor Brandao (Lab’O)  
 Patrice Frutos (INPI)  
-Renaud Garat (Questel)
+Renaud Garat (Questel)  
 Kim Gerdes (Paris 3, Cloem.com)  
 Loïc Grobol (LaTTiCe)  
 Gaël Guibon (LSIS, Caléa Solutions)  
