@@ -81,7 +81,8 @@ Samedi 24 juin (au Lab’O)
 - 16h-19h : développements en équipes
 - 19h-20h : Présentations
 	- La propriété intellectuelle des données (Thomas Saint-Aubin)
-	- Entreprises (About Innovation, TBC)
+	- Cloem (Kim Gerdes)
+	- About Innovation (Thomas Saint-Aubin)
 - 20h-21h : pause repas
 - 21h-... : développements en équipes
 
