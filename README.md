@@ -76,27 +76,32 @@ Deux évaluations seront proposées :
 
 Samedi 24 juin (au Lab’O)
 
-- 14h-15h : présentation du hackathon, café
-- 15h-16h : échanges, constitution des équipes, précisions sur les objectifs
-- 16h-19h : développements en équipes
-- 19h-20h : Présentations
+- 14h30-15h : accueil
+- 15h-15h30 : présentation du hackathon
+- 15h30-17h : café, échanges, constitution des équipes, précisions sur les objectifs
+- 17h-19h : développements en équipes
+- 18h-19h30 : Présentations
 	- La propriété intellectuelle des données (Thomas Saint-Aubin)
-	- Cloem (Kim Gerdes)
 	- About Innovation (Thomas Saint-Aubin)
-- 20h-21h : pause repas
-- 21h-... : développements en équipes
+	- Lab'O (Gilles Mary)
+	- Recital (Gilles Moyse)
+	- Cloem (Kim Gerdes)
+	- Caléa (Gaël Guibon)
+- 19h30-21h : pause repas
+- 21h-00h : développements en équipes
 
 Dimanche 25 juin (au Lab’O)
 
 - 09h-10h : accueil, café
-- 10h-12h : développements en équipes
-- 12h-13h : pause repas
-- 13h-14h : présentation des premiers résultats
-- 14h-19h : développements en équipes
+- 10h-13h : développements en équipes
+- 13h-14h : pause repas
+- 14h-15h : présentation des premiers résultats
+- 15h-19h : développements en équipes
 
 Lundi 26 juin (à TALN, campus d'Orléans)
 
-- 14h-17h : présentation des résultats, discussions, remise du prix
+- 13h30-15h30 : présentation des résultats, vote
+- 16h-18h : remise du prix, conclusion, discussion
 
 ### Organisation pratique
 
