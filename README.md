@@ -98,10 +98,10 @@ Dimanche 25 juin (au Lab’O)
 - 14h-15h : présentation des premiers résultats
 - 15h-19h : développements en équipes
 
-Lundi 26 juin (à TALN, campus d'Orléans)
+Lundi 26 juin (à TALN, campus d'Orléans, http://taln2017.cnrs.fr/infos-pratiques/#acces )
 
 - 13h45-15h30 : présentation des résultats, vote
-- 16h-18h : remise du prix, conclusion, discussion
+- 16h-18h : présentation (Laurent Hill, Questel), remise du prix, discussion, conclusion
 
 ### Organisation pratique
 

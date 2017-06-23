@@ -1,9 +1,6 @@
 # Identification des tendances stratégiques liées aux brevets
 
-## Description détaillée
+## Données et logiciels
 
-TBC
-
-## Données
-
-TBC
+- ManualTagger : https://github.com/gguibon/ManualTagger
+- AirBnB scrapper : https://github.com/gguibon/airbnb-scrapper
