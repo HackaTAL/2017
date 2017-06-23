@@ -80,7 +80,7 @@ Samedi 24 juin (au Lab’O)
 - 15h-15h30 : présentation du hackathon
 - 15h30-16h : café, échanges, précisions sur les objectifs
 - 16h-18h30 : développements en équipes
-- 18h30-19h : Présentations
+- 18h30-20h : Présentations
 	- La propriété intellectuelle des données (Thomas Saint-Aubin)
 	- About Innovation (Thomas Saint-Aubin)
 	- Lab'O (Gilles Mary)
