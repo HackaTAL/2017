@@ -100,8 +100,9 @@ Dimanche 25 juin (au Lab’O)
 
 Lundi 26 juin (à TALN, campus d'Orléans, http://taln2017.cnrs.fr/infos-pratiques/#acces )
 
-- 13h45-15h30 : présentation des résultats, vote
-- 16h-18h : présentation (Laurent Hill, Questel), remise du prix, discussion, conclusion
+- 14h-15h30 : présentation des résultats, vote
+- 16h-16h30 : l'utilisation du TAL chez Questel (Laurent Hill, Questel)
+- 16h30-18h : remise du prix, discussion, conclusion
 
 ### Organisation pratique
 
