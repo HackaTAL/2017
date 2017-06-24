@@ -4,3 +4,4 @@
 
 - ManualTagger : https://github.com/gguibon/ManualTagger
 - AirBnB scrapper : https://github.com/gguibon/airbnb-scrapper
+- Script d'évaluation `eval.py`
