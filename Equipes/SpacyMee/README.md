@@ -1,0 +1,4 @@
+# Participants
+
+- Genevieve
+- Laurent
