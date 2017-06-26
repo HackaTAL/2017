@@ -115,6 +115,7 @@ Données et briques logicielles seront en ligne : https://github.com/HackaTAL/20
 
 Julien Borderieux (LLL)  
 Victor Brandao (Lab’O)  
+Franck Dazin (INPI)
 Patrice Frutos (INPI)  
 Renaud Garat (Questel)  
 Kim Gerdes (Paris 3, Cloem.com)  
